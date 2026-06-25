@@ -8,3 +8,4 @@
 ### TODO
 
 - [ ] Describe the prompts clearly. 
+- [ ] Add a research paper implementor prompt for the learning path (one path can be book/resource based learnig, one-shot direct learning, research paper implementation.) For the research paper implementation, the agent must help the human to write the version that the paper wants to improve (to be able to actually understand the issue the paper is trying to solve) and then eventually try to reach to the solution.
